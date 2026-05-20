@@ -34,3 +34,6 @@ print("EX9 - O valor máximo de referência é:", sys.maxsize)
 
 # EX10 - Binário de 10
 print("EX10 - Representação binária de 10:", bin(10))
+
+# teste de envio hoje
+
